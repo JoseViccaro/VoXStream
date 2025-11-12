@@ -1,0 +1,14 @@
+# Servicios locales de VoXStream
+# Instalación: pip install -r requirements.txt
+
+# Servidor web para los servicios
+flask==3.0.0
+
+# Transcripción de audio con Whisper
+faster-whisper==1.0.0
+
+# Text-to-Speech con Coqui
+TTS==0.22.0
+
+# Utilidades
+numpy>=1.24.0
